@@ -6,6 +6,10 @@ Scripts used to analyze the T2T reference genome of *G. hirsutum* cv. ZM113
 * [GWAS.sh](GWAS.sh): GWAS analysis
 * [GWAS_phenotype_tidty.R](GWAS_phenotype_tidty.R): R script to process GWAS results
 
+D03 haplotype results
+* [D03_12Mbto23Mb.part1~4.vcf.gz](): VCF data
+* [Haplotype typing results of the D03 chromosome interval.xlsx](Haplotype typing results of the D03 chromosome interval.xlsx): Sample and haplotype information
+
   
 
 **Other Data and Materials Availability**
