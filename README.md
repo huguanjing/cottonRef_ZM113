@@ -8,7 +8,7 @@ Scripts used to analyze the T2T reference genome of *G. hirsutum* cv. ZM113
 
 D03 haplotype results
 * [D03_12Mbto23Mb.part1~4.vcf.gz](): VCF data
-* [Haplotype typing results of the D03 chromosome interval.xlsx](Haplotype typing results of the D03 chromosome interval.xlsx): Sample and haplotype information
+* [Haplotype_Sample.xlsx](Haplotype_Sample.xlsx): Sample and haplotype information
 
   
 
